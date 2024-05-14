@@ -1,0 +1,10 @@
+NITROGEN           500
+
+
+PHOSPHOROUS        45
+
+
+POTASSIUM          20
+
+
+

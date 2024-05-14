@@ -1,0 +1,19 @@
+NITROGEN           1000
+
+
+PHOSPHOROUS        45
+
+
+POTASSIUM          20
+
+
+PH                 5.5
+
+
+RAINFALL           1000
+
+
+STATE              KERALA
+
+
+CITY               MUNNAR
