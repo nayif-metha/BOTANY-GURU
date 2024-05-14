@@ -72,12 +72,12 @@ Note that, for now it only supports following crops
 
 ## How to run locally 🛠️
 - Before the following steps make sure you have [git](https://git-scm.com/download), [Anaconda](https://www.anaconda.com/) or [miniconda](https://docs.conda.io/en/latest/miniconda.html) installed on your system
-- Clone the complete project with `git clone https://github.com/nayif-metha/plant-diseases-detection-with-full-stack-web-application.git ` or you can just download the code and unzip it
+- Clone the complete project with `git clone https://github.com/nayif-metha/BOTANY-GURU.git ` or you can just download the code and unzip it
 
 - Once the project is cloned, open anaconda prompt in the directory where the project was cloned and paste the following block
   ```
-  conda create -n harvestify python=3.6.12
-  conda activate harvestify
+  conda create -n BOTANY-GURU python=3.6.12
+  conda activate BOTANY-GURU
   pip install -r requirements.txt
   ```
 - And finally run the project with
